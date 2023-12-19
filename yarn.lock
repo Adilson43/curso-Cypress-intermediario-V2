@@ -417,10 +417,10 @@ csstype@^3.1.2:
   resolved "https://registry.npmjs.org/csstype/-/csstype-3.1.2.tgz"
   integrity sha512-I7K1Uu0MBPzaFKg4nI5Q7Vs2t+3gWWW648spaF+Rg7pI9ds18Ugn+lvg4SHczUdKlHI5LWBXyqfS8+DufyBsgQ==
 
-cypress-plugin-api@^2.6.1:
-  version "2.6.1"
-  resolved "https://registry.npmjs.org/cypress-plugin-api/-/cypress-plugin-api-2.6.1.tgz"
-  integrity sha512-bpQZZWWhCLrsUBAcopZkgXTkLDTVnZQdpv1lSQfFkVc2DkJ6/eaH3PKiUh7QMVQ0afWrV40fFFXqLSPLd5nxLw==
+cypress-plugin-api@^2.11.1:
+  version "2.11.1"
+  resolved "https://registry.npmjs.org/cypress-plugin-api/-/cypress-plugin-api-2.11.1.tgz"
+  integrity sha512-62Fc5H59Web01UrcbEsgfhp0pDN7xmHtkXYqTGmwD4NiHz1DN+9ZSxjxVFAUCBY1Q+Ns2E3nTOvDZIl8wdeNDQ==
   dependencies:
     highlight.js "11.4.0"
     prismjs "^1.29.0"
