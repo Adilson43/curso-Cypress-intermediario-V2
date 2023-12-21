@@ -1,3 +1,4 @@
+
 const { defineConfig } = require('cypress')
 
 module.exports = defineConfig({
@@ -6,8 +7,8 @@ module.exports = defineConfig({
     env: {
       hideCredentials: true,
       requestMode: true,
-      snapshotOnly: true,
     },
+    experimentalRunAllSpecs: true,
   },
   fixturesFolder: false,
   video: false,
